@@ -1,0 +1,14 @@
+name: obis-mapping
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - colorcet
+  - datashader
+  - fastparquet
+  - geopandas
+  - geoplot
+  - jupyter
+  - matplotlib-base
+  - pandas
+  - shapely
